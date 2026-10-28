@@ -12,19 +12,29 @@ Ce glossaire regroupe les définitions de référence en matière de cybersécur
 
 ### A
 
+---
+
 #### Actif *(Asset)*
 Élément matériel, immatériel ou humain ayant une valeur directe ou indirecte pour une organisation, et dont la perte de disponibilité, d'intégrité, de confidentialité ou de traçabilité entraînerait un préjudice.
 * **Actif support** : infrastructure technique, serveur, réseau, locaux, personnel.
 * **Actif primordial / métier** : processus métier, information critique, savoir-faire.
 
+---
+
 #### AFNOR *(Association Française de Normalisation)*
 Organisme national français représentant la France auprès du Comité Européen de Normalisation (CEN) et de l'Organisation internationale de normalisation (ISO). L'AFNOR coordonne l'élaboration des normes en France et délivre des certifications par l'intermédiaire de sa filiale AFNOR Certification.
+
+---
 
 #### Analyse de Risques
 Processus systématique d'identification, de caractérisation et d'évaluation des risques pesant sur les actifs d'une organisation. Elle permet d'estimer la vraisemblance d'une menace exploitant une vulnérabilité et l'impact potentiel sur les objectifs métiers, afin d'orienter le plan de traitement du risque.
 
+---
+
 #### ANSSI *(Agence Nationale de la Sécurité des Systèmes d'Information)*
 Autorité nationale française en matière de cybersécurité et de cyberdéfense, rattachée au Secrétariat général de la défense et de la sécurité nationale (SGDSN). Elle a pour missions d'assister les services de l'État et les opérateurs d'importance vitale, de délivrer des qualifications et visas de sécurité, et d'édicter des guides de bonnes pratiques.
+
+---
 
 #### Audit
 Processus méthodique, indépendant et documenté permettant de recueillir des éléments de preuve objectifs et de les évaluer afin de déterminer dans quelle mesure les critères d'audit prédéfinis (normes, exigences contractuelles, PSSI, lois) sont respectés.
